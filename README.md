@@ -13,7 +13,7 @@ For further info of Octave please see http://www.gnu.org/software/octave/
 This set includes:
 
 ex2.m - Octave script that will help step you through the exercise  
-ex2 reg.m - Octave script for the later parts of the exercise  
+ex2_reg.m - Octave script for the later parts of the exercise  
 ex2data1.txt - Training set for the first half of the exercise  
 ex2data2.txt - Training set for the second half of the exercise  
 mapFeature.m - Function to generate polynomial features  
